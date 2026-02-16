@@ -4,4 +4,4 @@ MYQF-CAP-Repository-for-game-save
 
 # Snowrunner
 
-> Snowrunner-2026年2月16日-capnins
+> Snowrunner : CompleteSave3-2026年2月16日-capnins
